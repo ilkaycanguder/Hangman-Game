@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ILKAY\\source\\repos\\Hangman_Proje1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B94D8690-D8E5-455B-AA14-6A6A25E04D77}|Hangman_Proje1\\Hangman_Proje1.vcxproj|C:\\Users\\ILKAY\\source\\repos\\Hangman_Proje1\\Hangman_Proje1\\152120221132_Proje1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B94D8690-D8E5-455B-AA14-6A6A25E04D77}|Hangman_Proje1\\Hangman_Proje1.vcxproj|solutionrelative:Hangman_Proje1\\152120221132_Proje1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94D8690-D8E5-455B-AA14-6A6A25E04D77}|Hangman_Proje1\\Hangman_Proje1.vcxproj|C:\\Users\\ILKAY\\source\\repos\\Hangman_Proje1\\Hangman_Proje1\\file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B94D8690-D8E5-455B-AA14-6A6A25E04D77}|Hangman_Proje1\\Hangman_Proje1.vcxproj|solutionrelative:Hangman_Proje1\\file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "152120221132_Proje1.cpp",
+              "DocumentMoniker": "C:\\Users\\ILKAY\\source\\repos\\Hangman_Proje1\\Hangman_Proje1\\152120221132_Proje1.cpp",
+              "RelativeDocumentMoniker": "Hangman_Proje1\\152120221132_Proje1.cpp",
+              "ToolTip": "C:\\Users\\ILKAY\\source\\repos\\Hangman_Proje1\\Hangman_Proje1\\152120221132_Proje1.cpp",
+              "RelativeToolTip": "Hangman_Proje1\\152120221132_Proje1.cpp",
+              "ViewState": "AQIAADQBAAAAAAAAAAAYwEIBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-04-13T05:39:12.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file.cpp",
+              "DocumentMoniker": "C:\\Users\\ILKAY\\source\\repos\\Hangman_Proje1\\Hangman_Proje1\\file.cpp",
+              "RelativeDocumentMoniker": "Hangman_Proje1\\file.cpp",
+              "ToolTip": "C:\\Users\\ILKAY\\source\\repos\\Hangman_Proje1\\Hangman_Proje1\\file.cpp",
+              "RelativeToolTip": "Hangman_Proje1\\file.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAYwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-05-24T17:15:02.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

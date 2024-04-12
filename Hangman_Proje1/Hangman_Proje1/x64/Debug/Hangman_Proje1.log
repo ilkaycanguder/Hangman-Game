@@ -1,0 +1,7 @@
+﻿  152120221132_Proje1.cpp
+C:\Users\ILKAY\source\repos\Hangman_Proje1\Hangman_Proje1\152120221132_Proje1.cpp(46,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ILKAY\source\repos\Hangman_Proje1\Hangman_Proje1\152120221132_Proje1.cpp(86,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ILKAY\source\repos\Hangman_Proje1\Hangman_Proje1\152120221132_Proje1.cpp(222,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  file.cpp
+  Generating Code...
+  Hangman_Proje1.vcxproj -> C:\Users\ILKAY\source\repos\Hangman_Proje1\x64\Debug\Hangman_Proje1.exe
